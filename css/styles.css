@@ -7,8 +7,30 @@ h1{
     
 }
 
-.header{
+.top-container{
+    border:solid 10px;
+    border-color: black;
     background-color: #EB455F;
-    margin: 0px 0px 0px 0px;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
 }
 
+.middle-container{
+    margin-left: 260px;
+    border:solid 20px;
+    background-color: red;
+    border-color: black;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom-container{
+    margin-left: 500px;
+    border: 10px;
+    border-style: solid;
+    border-color: black;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
